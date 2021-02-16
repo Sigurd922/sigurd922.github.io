@@ -260,10 +260,12 @@
     [
       "cc.Canvas",
       [
+        "_fitWidth",
+        "_fitHeight",
         "node",
         "_designResolution"
       ],
-      3,
+      1,
       1,
       5
     ],
@@ -645,7 +647,9 @@
       10,
       0,
       1,
-      1
+      2,
+      3,
+      3
     ],
     [
       2,
@@ -2392,6 +2396,8 @@
           [
             [
               27,
+              true,
+              false,
               -1,
               [
                 5,
